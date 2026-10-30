@@ -1,0 +1,18 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-10-30T18:44:27+00:00",
+    "packages": {
+        "educore-recovery": {
+            "type": "plugin",
+            "version": "1.2.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.2.0/packages/educore-recovery.zip",
+            "sha256": "8f529d24f528bd1e4864bf2c27b957147c0cff4938a99ef04e42b2deb0fabd88",
+            "size": 84924,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.1.0",
+            "tested": "7.1"
+        }
+    },
+    "signature": "eVLcY95/g1e2SRnb4jmkNnbms2OnEiTbHcbZMZPE8NTCNTDQ0+VRv6RaHADiPL/oJYLxk+bf/oLIAQo8ghT0DA=="
+}
