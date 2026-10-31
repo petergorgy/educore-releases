@@ -1,0 +1,2 @@
+d2d56b38156d82038eed341cf2073516ec3e75717a46578eba98a3026e5b76c2  educore-assessments.zip
+2ecd171d4b27cbe1073e611d17f06fde71d7bebbdfa9f0c41dad9818352bed7e  educore-recovery.zip

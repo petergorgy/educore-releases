@@ -1,0 +1,29 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-10-31T11:05:52+00:00",
+    "packages": {
+        "educore-assessments": {
+            "type": "plugin",
+            "version": "1.3.1",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.1/packages/educore-assessments.zip",
+            "sha256": "d2d56b38156d82038eed341cf2073516ec3e75717a46578eba98a3026e5b76c2",
+            "size": 194968,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.1.0",
+            "tested": "7.1"
+        },
+        "educore-recovery": {
+            "type": "plugin",
+            "version": "1.2.1",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.1/packages/educore-recovery.zip",
+            "sha256": "2ecd171d4b27cbe1073e611d17f06fde71d7bebbdfa9f0c41dad9818352bed7e",
+            "size": 101300,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.1.0",
+            "tested": "7.1"
+        }
+    },
+    "signature": "++oaTSppj6xtENmeTmTvw2jpZuzQ7kQZkzTWGV7Wt+m17xH21Karl4NdaplwdsN/OS4Vlm1hE1TMWNUnwzvIBQ=="
+}
