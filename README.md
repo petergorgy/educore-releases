@@ -4,6 +4,7 @@ Release artifacts live on the **`releases` branch** (this `main` branch only hol
 
 | Version | Manifest (set in EduCore → Settings → Release channel) | Package(s) |
 |---|---|---|
+| 1.3.1 | `https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.1/manifest.json` | educore-assessments 1.3.1, educore-recovery 1.2.1 |
 | 1.3.0 | `https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.0/manifest.json` | educore-assessments 1.3.0 |
 | 1.2.0 | `https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.2.0/manifest.json` | educore-recovery 1.2.0 |
 | 1.1.0 | `https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.1.0/manifest-step2.json` | core, notifications, teaching hub, theme 1.1.0 |
