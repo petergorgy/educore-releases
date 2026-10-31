@@ -9,7 +9,7 @@ Release artifacts live on the **`releases` branch** (this `main` branch only hol
 | 1.1.0 | `https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.1.0/manifest-step2.json` | core, notifications, teaching hub, theme 1.1.0 |
 
 Each folder contains `manifest.json` (Ed25519-signed), `packages/*.zip`, `packages/SHA256SUMS.txt` and `SOURCE.txt` (source commit).
-Git tags `v1.2.0` and `v1.3.0` point at the `releases` commit that contains them. (GitHub "Releases" entries are not used; the raw branch URLs above are the distribution channel.)
+Distribution is the raw `releases`-branch URLs above. GitHub Releases entries and version tags have not been created (the automation session is not permitted to create them); the owner may create them from the `releases` branch without affecting updates.
 
 EduCore installs a package only if the manifest signature verifies against the public key built into EduCore Core
 (`wnG3eFq9qP96czwqUJ5/qtUDzA1ZPync7tR9wQnh+So=`) **and** the package SHA-256 matches the manifest. The private key is never stored here.
