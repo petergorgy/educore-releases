@@ -1,0 +1,4 @@
+EduCore 1.3.0 — source provenance
+source commit: a684e7da7f309da61a2626832e351422de329510 (tag v1.3.0 in the EduCore source repository; content of every package reproduced byte-for-byte in file contents from this commit with tools/build-release.sh)
+signing: Ed25519, public key wnG3eFq9qP96czwqUJ5/qtUDzA1ZPync7tR9wQnh+So= (embedded in EduCore Core Updater)
+verify: php tools/verify-release.php manifest.json packages/
