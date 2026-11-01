@@ -1,0 +1,3 @@
+EduCore 1.4.3 — Platform settings in EduCore Management.
+packages: workspace 1.3.0
+source: educore@ff1340a
