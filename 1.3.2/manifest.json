@@ -1,0 +1,73 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-11-01T18:46:59+00:00",
+    "packages": {
+        "educore-assessments": {
+            "type": "plugin",
+            "version": "1.3.2",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.2/packages/educore-assessments.zip",
+            "sha256": "4261fa75ad5ed869452c06ccbff9a1ecb757c715e2d6e0ecc1b0ba3c87e941ef",
+            "size": 195962,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.1.0",
+            "tested": "7.1"
+        },
+        "educore-certificates": {
+            "type": "plugin",
+            "version": "1.0.2",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.2/packages/educore-certificates.zip",
+            "sha256": "99293bf48738908965c641d70cf37fcd4d8946a1454641f502be55798d69639a",
+            "size": 3225253,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "",
+            "tested": "7.1"
+        },
+        "educore-core": {
+            "type": "plugin",
+            "version": "1.2.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.2/packages/educore-core.zip",
+            "sha256": "3da6fca3bd20ef741ce8673564bc4dfe95c64946d7ce86b16fef4ab55a5b0d21",
+            "size": 640695,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "",
+            "tested": "7.1"
+        },
+        "educore-notifications": {
+            "type": "plugin",
+            "version": "1.1.1",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.2/packages/educore-notifications.zip",
+            "sha256": "f1584d2c4f1704a3e9cede1f95dc7b17ae65b1bf6e2f247b5f25c86cde0f8913",
+            "size": 38134,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "",
+            "tested": "7.1"
+        },
+        "educore-teaching-hub": {
+            "type": "plugin",
+            "version": "1.1.1",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.2/packages/educore-teaching-hub.zip",
+            "sha256": "f246d5d36b69cca417d00ed56b68b8d8ef1f2b177a6db1a5d47e9305d797c3fc",
+            "size": 188813,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.1.0",
+            "tested": "7.1"
+        },
+        "educore-theme": {
+            "type": "theme",
+            "version": "1.2.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.3.2/packages/educore-theme.zip",
+            "sha256": "27e752c8b70268412ea8b99e12c2ba902cd464f7f04b5b7a2be4a394972d2ffb",
+            "size": 959353,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "",
+            "tested": "7.1"
+        }
+    },
+    "signature": "jcXnVzEXjKfSL1Uu3fGpwQOqvFyv5wiS+80iw3C7DaPAoFpYAyCF9CrtmNfQqZBVirSR5fNFMaz785m23XxXBA=="
+}
