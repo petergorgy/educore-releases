@@ -1,0 +1,3 @@
+EduCore 1.4.2 — Question Bank Center and Assessment Builder.
+packages: workspace 1.2.0
+source: educore@ded12f7
