@@ -1,0 +1,2 @@
+6edf7d0599d530b7dcc60bde82f07c27c6eb5b85a99282ad6f354a36c8c1d7da  educore-teaching-hub.zip
+b34afa5c4bb411c4e518787d0278a82855e3ecd558aea18ae99bcb0d7730f29c  educore-workspace.zip
