@@ -1,0 +1,29 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-11-01T21:25:54+00:00",
+    "packages": {
+        "educore-teaching-hub": {
+            "type": "plugin",
+            "version": "1.2.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.4.0/packages/educore-teaching-hub.zip",
+            "sha256": "42fbc0cda22655d9df4f27f87a0d97dce428b03086e45507ca9929271ac89f7f",
+            "size": 189385,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.1.0",
+            "tested": "7.1"
+        },
+        "educore-workspace": {
+            "type": "plugin",
+            "version": "1.0.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.4.0/packages/educore-workspace.zip",
+            "sha256": "d09626cfbc8752524da510f17e14ddbfb19d2d6af5f963efad164236bfa055fe",
+            "size": 77337,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.2.0",
+            "tested": "7.1"
+        }
+    },
+    "signature": "NZ38K8sRyoI7+PPTAMm5xKyTAZQDLMHb/uApfvykGPUQP8wxdu3gpTebNj/yiQnttqcyqAkaw30nhQZW+9bZAA=="
+}

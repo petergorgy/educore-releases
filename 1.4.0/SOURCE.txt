@@ -1,0 +1,4 @@
+EduCore 1.4.0 — Workspace (increment A): application shell, EduCore Management, people & profiles, guardian and tutor workspaces.
+packages: workspace 1.0.0 (new), teaching-hub 1.2.0
+requires: core >= 1.2.0
+source: educore@40598ae
