@@ -1,0 +1,18 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-11-02T02:18:01+00:00",
+    "packages": {
+        "educore-analytics": {
+            "type": "plugin",
+            "version": "1.0.2",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.4.8/packages/educore-analytics.zip",
+            "sha256": "0af5ad24e5fc5024e29b2a1a4567f9302c8feff96d1e32b4bb0a628ece6ca563",
+            "size": 129441,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "",
+            "tested": "7.1"
+        }
+    },
+    "signature": "WfllL5OBt2VGjtdLw22vRnvCjWlTVwDBdqzwAJTyex0FWNiytBz4ytwc9qi0zAHRqxl2pB8Lk02w4FFNPG8mDQ=="
+}
