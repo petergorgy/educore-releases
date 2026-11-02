@@ -1,0 +1,3 @@
+EduCore 1.4.9 — Analytics performance (PERF-149-01).
+packages: analytics 1.0.3
+source: educore@8cce927
