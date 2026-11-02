@@ -1,0 +1,18 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-11-02T00:41:29+00:00",
+    "packages": {
+        "educore-workspace": {
+            "type": "plugin",
+            "version": "1.6.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.4.6/packages/educore-workspace.zip",
+            "sha256": "990ed0c35f462f6c8150b75d0d7e417e73983f21a0047dd199754b411461f8c3",
+            "size": 305702,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.2.0",
+            "tested": "7.1"
+        }
+    },
+    "signature": "4DDqRqK8X7j1AvhjlxSCD1S3fCTlBrgXn+Yp6eD2dSqnMi5GbELoX0M/qhXc3WV8iPuvBxVDh/uoo5AYG5kxBg=="
+}
