@@ -1,0 +1,3 @@
+EduCore 1.4.10 — Announcements, Coming up, family-shared support plans.
+packages: workspace 1.8.0
+source: educore@7b3e85c
