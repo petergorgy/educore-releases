@@ -1,0 +1,40 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-11-03T22:04:37+00:00",
+    "packages": {
+        "educore-experience": {
+            "type": "plugin",
+            "version": "1.0.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.5.0/packages/educore-experience.zip",
+            "sha256": "585ef69ecb859931e720ee85ea2ad97c46dc80eacf8cbea6f70e3d16395d921e",
+            "size": 117655,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.2.0",
+            "tested": "7.1"
+        },
+        "educore-identity": {
+            "type": "plugin",
+            "version": "1.0.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.5.0/packages/educore-identity.zip",
+            "sha256": "1f7863dbd93b56464b53c275f7cc3d9dcc9f995fef179c7cbf027cbb67a77d6a",
+            "size": 69251,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.2.0",
+            "tested": "7.1"
+        },
+        "educore-workspace": {
+            "type": "plugin",
+            "version": "1.9.0",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.5.0/packages/educore-workspace.zip",
+            "sha256": "0beacaa456cc2a52867bdd62f7aaea7397ad9525e73e3a832d880daab0985307",
+            "size": 371015,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.2.0",
+            "tested": "7.1"
+        }
+    },
+    "signature": "Gp0CEBRKAcPtHnPzNAQo6Bt7wBlsoRYzfqUzhgVw59TEZb2gOiakUMNXWGYzhvnGH4cRCWyKTlzlIFoaZP2FBw=="
+}

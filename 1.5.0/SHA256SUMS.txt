@@ -1,0 +1,3 @@
+585ef69ecb859931e720ee85ea2ad97c46dc80eacf8cbea6f70e3d16395d921e  educore-experience.zip
+1f7863dbd93b56464b53c275f7cc3d9dcc9f995fef179c7cbf027cbb67a77d6a  educore-identity.zip
+0beacaa456cc2a52867bdd62f7aaea7397ad9525e73e3a832d880daab0985307  educore-workspace.zip
