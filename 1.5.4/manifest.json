@@ -1,0 +1,18 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-11-03T23:45:36+00:00",
+    "packages": {
+        "educore-identity": {
+            "type": "plugin",
+            "version": "1.0.2",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.5.4/packages/educore-identity.zip",
+            "sha256": "432ffabae0c2a83cf4b8056530ca6ce144483bc232b13fc6e81660f7eed0d6c9",
+            "size": 69536,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "1.2.0",
+            "tested": "7.1"
+        }
+    },
+    "signature": "cHKyQC+CEaydK2rzZ5r1wIQQ1oee/jEwObTFgbCO/GAuQ8QmEtS7loFR3jWWeyPPCjbcuzUxcTrik3NDcHN9BA=="
+}

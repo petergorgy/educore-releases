@@ -1,0 +1,3 @@
+EduCore 1.5.4 — sign-in options readable in every time-of-day look (DEF-15-09).
+packages: identity 1.0.2
+source: educore@e251d9d
