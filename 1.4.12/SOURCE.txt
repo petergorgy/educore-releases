@@ -1,0 +1,3 @@
+EduCore 1.4.12 — Landing page redesign with the 2-minute product tour; DEF-1412-01.
+packages: theme 1.3.0
+source: educore@9edce68
