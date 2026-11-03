@@ -1,0 +1,3 @@
+EduCore 1.4.13 — Signed-in header on one row; compact menu with account links.
+packages: theme 1.3.1
+source: educore@52303f2

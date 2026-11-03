@@ -1,0 +1,18 @@
+{
+    "channel": "stable",
+    "generated_at": "2026-11-03T01:38:12+00:00",
+    "packages": {
+        "educore-theme": {
+            "type": "theme",
+            "version": "1.3.1",
+            "url": "https://raw.githubusercontent.com/petergorgy/educore-releases/releases/1.4.13/packages/educore-theme.zip",
+            "sha256": "64257beb39fd89cf974fcc82cb46a6da608367f6804d4c77085a2fb52b095b94",
+            "size": 8896721,
+            "requires": "6.8",
+            "requires_php": "8.1",
+            "requires_core": "",
+            "tested": "7.1"
+        }
+    },
+    "signature": "jKTRCaOqu2a3gt/G416WKUWX7+Q/rEl3IkRGb0Ztw4KX8ARomALhALfIDT1FQBpGy09EuLRo0lEEbLK8C6UuBQ=="
+}
